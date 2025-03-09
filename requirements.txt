@@ -1,0 +1,6 @@
+file content
+
+nltk==3.6.2
+scikit-learn==0.24.2
+imaplib==3.3.0
+email==6.0.0
